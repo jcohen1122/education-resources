@@ -42,7 +42,12 @@ ___
 
 ### Free Courses
 
+* [Udemy - Angular Free Courses](https://www.udemy.com/topic/angular/free/)
+* [Coursera - AngularJS Free Course](https://www.coursera.org/learn/single-page-web-apps-with-angularjs?action=enroll)
+
 ### Paid Courses
+
+* [Udemy - Angular Paid Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ___
 
@@ -50,9 +55,15 @@ ___
 
 ### Helpful Links
 
+* [GNU - Bash Reference Guide](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+
 ### Youtube Video Playlists
 
+* [Bash Scripting Course](https://www.youtube.com/watch?v=e7BufAVwDiM)
+
 ### Free Courses
+
+* [CodeCademy - Bash Scripting](https://www.codecademy.com/learn/bash-scripting)
 
 ### Paid Courses
 
