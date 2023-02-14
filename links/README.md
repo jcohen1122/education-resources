@@ -67,6 +67,8 @@ ___
 
 ### Paid Courses
 
+* [Udemy - Bash Scipting](https://www.udemy.com/topic/bash-shell/)
+
 ___
 
 ## C
@@ -140,11 +142,19 @@ ___
 
 ### Helpful Links
 
+* [Docker - Documentation](https://docs.docker.com/)
+
 ### Youtube Video Playlists
+
+* [Docker - FreeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
 ### Free Courses
 
+* [Udemy - Free Courses](https://www.udemy.com/topic/docker/free/)
+
 ### Paid Courses
+
+* [Udemy - Paid Courses](https://www.udemy.com/topic/docker/)
 
 ___
 
